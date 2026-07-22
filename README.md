@@ -36,7 +36,7 @@ I'm a passionate developer who enjoys building web applications and continuously
 
 ## 📚 Currently Learning
 
-- 🚀 Full Stack Development (MERN Stack)
+- 🚀 Java Full Stack Development 
 - ☕ Java Programming
 - 🧩 Data Structures & Algorithms (DSA)
 - 💻 Problem Solving
@@ -46,7 +46,7 @@ I'm a passionate developer who enjoys building web applications and continuously
 
 ## 🎯 Goals for 2026
 
-- ✅ Master MERN Stack
+- ✅ Master JAVA FSD Stack
 - ✅ Become strong in Java DSA
 - ✅ Build impactful Full Stack Projects
 - ✅ Contribute to Open Source
